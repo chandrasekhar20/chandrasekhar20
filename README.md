@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandrasekhar20
 - 👀 I’m interested in GAME DEVELOPMENT
-- 🌱 I’m currently learning GAME DEVELOPING 
+- 🌱 I’m currently learning GAME DEVELOPING Using Unity..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
